@@ -1,0 +1,1 @@
+/home/agent_nate/.config/themer/templates/i3/i3.tpl
